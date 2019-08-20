@@ -11,7 +11,7 @@ webgui:
   use: true
   host: '127.0.0.1'
   port: '8080'
-  site: 'http://yourwebsite.com'
+  site: 'https://yourwebsite.com'
 ```
 
 添加 nginx 的配置文件：
